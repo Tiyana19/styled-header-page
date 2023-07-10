@@ -135,4 +135,7 @@ h1 span {
   .head-content .btn {
     margin: 1rem auto;
   }
+  #slideImg {
+    object-fit: cover;
+  }
 }
